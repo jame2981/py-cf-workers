@@ -1,0 +1,3 @@
+name = "hello-world-python-worker"
+main = "main.py"
+compatibility_date = "2025-04-25"
